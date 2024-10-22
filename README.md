@@ -76,7 +76,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes y escalables. Me
 
 ### 📫 Cómo contactarme
 
-- [LinkedIn](www.linkedin.com/in/carlos-ivan-morales-carreon-889b11217)
+- [LinkedIn](https://www.linkedin.com/in/carlos-ivan-morales-carreon-889b11217)
 - [Twitter](https://twitter.com/)
 - [Correo](mailto:carlos.imc.develop@gmail.com)
 
